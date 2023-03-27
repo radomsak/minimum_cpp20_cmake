@@ -1,0 +1,2 @@
+# minimum_cpp20_cmake
+minimum_cpp20_cmake
